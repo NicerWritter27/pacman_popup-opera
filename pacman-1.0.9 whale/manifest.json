@@ -1,0 +1,40 @@
+{
+  "author": "Schmextensions",
+  "browser_action": {
+    "default_icon": {
+      "128": "app/style/graphics/128.png",
+      "16": "app/style/graphics/16.png",
+      "32": "app/style/graphics/32.png",
+      "48": "app/style/graphics/48.png",
+      "64": "app/style/graphics/64.png"
+    },
+    "default_popup": "index.html",
+    "default_title": "Pacman"
+  },
+  "description": "__MSG_appDesc__",
+  "developer": {
+    "name": "angelo2008"
+  },
+  "icons": {
+    "128": "app/style/graphics/128.png",
+    "16": "app/style/graphics/16.png",
+    "32": "app/style/graphics/32.png",
+    "48": "app/style/graphics/48.png",
+    "64": "app/style/graphics/64.png"
+  },
+  "background": {
+    "scripts": ["build/background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2,
+  "name": "__MSG_appName__",
+  "offline_enabled": false,
+  "options_ui": {
+    "chrome_style": false,
+    "open_in_tab": false,
+    "page": "options.html"
+  },
+  "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+  "version": "1.0.9",
+  "default_locale": "en"
+}

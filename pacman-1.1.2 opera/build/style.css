@@ -1,0 +1,27 @@
+* {
+    font-family: 'Press Start 2P', sans-serif; }
+.heading {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #2121ff;
+}
+.more {
+    font-size: 40px;
+}
+body {
+    background-color: black;
+}
+.all {
+    text-align: center;
+}
+.main-body {
+    color: #2121ff;
+}
+.part {
+    font-size: medium;
+}
+.note {
+    font-size: small;
+    color: #2121ff;
+}

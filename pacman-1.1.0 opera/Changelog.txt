@@ -1,0 +1,52 @@
+Hallo!
+Looks like you have found the hidden changelog at the game's code file
+Well done!
+
+1.1.0
+[removed] Beta version of options page was removed due to errors, but will be back
+[changed] Some changes to the sidebar version
+
+1.0.9 - Current version
+[fixed] Some improvements for the options page (beta)
+[new] Beta sidebar version was added
+
+1.0.8
+[new] Secret changelog easter egg was added
+[new] Beta version of options page was added
+[fixed] the files on the game's code file was unencrypted
+
+1.0.7
+[fixed] The full screen mode was fixed
+[new] Promotional image of the game was added to addons.opera.com
+[new] Gameplay video (intro) was added to addons.opera.com
+
+1.0.6
+[new] Beta full screen mode was added to the game
+
+1.0.3
+[fix] Some sounds of the game was fixed
+[new] Screenshots was added to addons.opera.com
+
+1.0.0
+[new] The first version of the game released
+
+============================================
+Links:
+
+Follow us on twitter:
+https://twitter.com/Schmextensions
+
+Subscribe on YouTube:
+https://www.youtube.com/channel/UCzQEOxoHqwgpLL355A6wguQ
+
+Github source codes:
+https://github.com/NicerWritter27
+
+Donate for use on Ko-fi:
+https://ko-fi.com/schmextensions
+
+Visit our website:
+https://github.com/NicerWritter27/schmextensionsweb
+
+Play Pacman on your browser:
+https://github.com/NicerWritter27/web-pacman
